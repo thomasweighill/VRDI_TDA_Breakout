@@ -1,3 +1,4 @@
 # Material for the TDA breakout in week 2 of the VRDI
-Handouts for day 1 and day 2 of the TDA breakout in pdf form.
-A notebook for day 2 based on T. Needham's notebooks.
+Handouts for Day 1 and Day 2 of the TDA breakout in pdf formi.
+
+A notebook for Day 2 based on T. Needham's notebooks.
